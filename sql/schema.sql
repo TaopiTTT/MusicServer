@@ -135,6 +135,10 @@ INSERT INTO `user` (`id`, `phone`, `password`, `nickname`, `icon`, `followings_c
 INSERT INTO `ad` (`id`, `title`, `icon`, `uri`, `style`, `position`, `sort`, `user_id`, `created_at`, `updated_at`) VALUES
 (10, '这是广告', 'assets/g1.jpg', 'http://www.hut.edu.cn', 0, 0, 700, 1417780635407372289, '2021-09-04 17:34:05', '2024-08-19 21:59:07');
 
+INSERT INTO `ad` (`id`, `title`, `icon`, `uri`, `style`, `position`, `sort`, `user_id`, `created_at`, `updated_at`) VALUES
+(11, '这是广告', 'assets/g2.jpg', 'http://www.hut.edu.cn', 0, 0, 700, 1417780635407372289, '2021-09-04 17:34:05', '2024-08-19 21:59:07');
+
+
 INSERT INTO `singer` (`id`, `nickname`, `icon`, `followings_count`, `followers_count`, `tags`) VALUES
 (105, 'Rice Shower', 'assets/singer.jpg', 0, 0, '["米浴", "哥哥", "iOS"]');
 
