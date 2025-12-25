@@ -149,7 +149,7 @@ INSERT INTO `playlist` (`id`, `title`, `icon`, `detail`, `user_id`, `clicks_coun
 (1, '这是歌单1', 'assets/list1.jpg', '歌单1', 1417780635407372289, 21306, 22, 44, 2, '2200-04-10 00:28:49', '2025-12-24 20:11:49');
 
 INSERT INTO `playlist` (`id`, `title`, `icon`, `detail`, `user_id`, `clicks_count`, `collects_count`, `comments_count`, `songs_count`, `created_at`, `updated_at`) VALUES
-(2, '这是歌单2', 'assets/list2.jpg', '歌单2', 1417780635407372289, 21306, 22, 44, 0, '2200-04-10 00:28:49', '2025-12-24 20:11:49');
+(2, '这是歌单2', 'assets/list2.png', '歌单2', 1417780635407372289, 21306, 22, 44, 0, '2200-04-10 00:28:49', '2025-12-24 20:11:49');
 
 -- 插入标签数据
 INSERT INTO `tag` (`id`, `title`) VALUES

@@ -63,3 +63,6 @@ git clone https://github.com/TaopiTTT/MusicServer.git
 
 请注意电脑防火墙是否开放！本项目将用到8088、9178端口，请确保以上端口并未被占用。
 
+## 参考资源
+
+可在本仓库的assets文件夹下获取。
